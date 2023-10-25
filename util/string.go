@@ -3,7 +3,7 @@ package util
 import (
 	"strings"
 
-	"goctlpri/util/console"
+	"github.com/yanxin666/goctlpri/util/console"
 )
 
 var goKeyword = map[string]string{

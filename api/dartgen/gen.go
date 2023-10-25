@@ -7,7 +7,7 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"
-	"goctlpri/api/parser"
+	"github.com/yanxin666/goctlpri/api/parser"
 )
 
 var (

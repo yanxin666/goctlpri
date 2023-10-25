@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"goctlpri/api/spec"
-	"goctlpri/config"
-	"goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util/format"
 )
 
 const (

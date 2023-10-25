@@ -3,7 +3,7 @@ package docker
 import (
 	_ "embed"
 
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 const (

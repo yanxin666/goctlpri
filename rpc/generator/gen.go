@@ -3,10 +3,10 @@ package generator
 import (
 	"path/filepath"
 
-	"goctlpri/rpc/parser"
-	"goctlpri/util/console"
-	"goctlpri/util/ctx"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/rpc/parser"
+	"github.com/yanxin666/goctlpri/util/console"
+	"github.com/yanxin666/goctlpri/util/ctx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 type ZRpcContext struct {

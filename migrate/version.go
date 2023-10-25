@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"goctlpri/util/console"
+	"github.com/yanxin666/goctlpri/util/console"
 )
 
 var client = http.Client{

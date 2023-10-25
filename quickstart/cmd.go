@@ -1,6 +1,6 @@
 package quickstart
 
-import "goctlpri/internal/cobrax"
+import "github.com/yanxin666/goctlpri/internal/cobrax"
 
 const (
 	serviceTypeMono  = "mono"

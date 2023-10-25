@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"goctlpri/pkg/parser/api/ast"
-	"goctlpri/pkg/parser/api/placeholder"
-	"goctlpri/pkg/parser/api/token"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/ast"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/placeholder"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/token"
 )
 
 // API is the parsed api file.

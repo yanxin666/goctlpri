@@ -10,8 +10,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"goctlpri/rpc/execx"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 const goModuleWithoutGoFiles = "command-line-arguments"

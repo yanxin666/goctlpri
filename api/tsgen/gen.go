@@ -7,8 +7,8 @@ import (
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"
-	"goctlpri/api/parser"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/api/parser"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

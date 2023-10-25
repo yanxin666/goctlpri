@@ -13,10 +13,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"goctlpri/api/parser"
-	"goctlpri/api/spec"
-	"goctlpri/rpc/execx"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/api/parser"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 const pluginArg = "_plugin"

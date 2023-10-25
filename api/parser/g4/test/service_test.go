@@ -4,8 +4,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"goctlpri/api/parser/g4/ast"
-	"goctlpri/api/parser/g4/gen/api"
+	"github.com/yanxin666/goctlpri/api/parser/g4/ast"
+	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
 )
 
 func TestBody(t *testing.T) {

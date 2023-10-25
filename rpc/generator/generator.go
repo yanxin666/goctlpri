@@ -3,9 +3,9 @@ package generator
 import (
 	"log"
 
-	conf "goctlpri/config"
-	"goctlpri/env"
-	"goctlpri/util/console"
+	conf "github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/env"
+	"github.com/yanxin666/goctlpri/util/console"
 )
 
 // Generator defines the environment needs of rpc service generation

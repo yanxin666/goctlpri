@@ -11,7 +11,7 @@ import (
 	"github.com/stretchr/testify/assert"
 	"github.com/zeromicro/go-zero/core/logx"
 	"github.com/zeromicro/go-zero/core/stringx"
-	"goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/rpc/execx"
 )
 
 func TestRpcGenerate(t *testing.T) {

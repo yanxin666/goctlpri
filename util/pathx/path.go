@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"goctlpri/vars"
+	"github.com/yanxin666/goctlpri/vars"
 )
 
 const (

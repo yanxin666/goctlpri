@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"strings"
 
-	"goctlpri/api/spec"
-	"goctlpri/config"
-	"goctlpri/util/format"
-	"goctlpri/vars"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/vars"
 )
 
 const (

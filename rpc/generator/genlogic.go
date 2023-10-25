@@ -7,12 +7,12 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/collection"
-	conf "goctlpri/config"
-	"goctlpri/rpc/parser"
-	"goctlpri/util"
-	"goctlpri/util/format"
-	"goctlpri/util/pathx"
-	"goctlpri/util/stringx"
+	conf "github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/rpc/parser"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/stringx"
 )
 
 const logicFunctionTemplate = `{{if .hasComment}}{{.comment}}{{end}}

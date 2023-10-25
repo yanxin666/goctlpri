@@ -12,14 +12,14 @@ import (
 	"github.com/zeromicro/go-zero/core/logx"
 	"github.com/zeromicro/go-zero/core/stores/postgres"
 	"github.com/zeromicro/go-zero/core/stores/sqlx"
-	"goctlpri/config"
-	"goctlpri/model/sql/command/migrationnotes"
-	"goctlpri/model/sql/gen"
-	"goctlpri/model/sql/model"
-	"goctlpri/model/sql/util"
-	file "goctlpri/util"
-	"goctlpri/util/console"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/model/sql/command/migrationnotes"
+	"github.com/yanxin666/goctlpri/model/sql/gen"
+	"github.com/yanxin666/goctlpri/model/sql/model"
+	"github.com/yanxin666/goctlpri/model/sql/util"
+	file "github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/console"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

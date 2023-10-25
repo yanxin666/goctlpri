@@ -9,10 +9,10 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"goctlpri/api/parser"
-	"goctlpri/pkg/env"
-	"goctlpri/rpc/execx"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/api/parser"
+	"github.com/yanxin666/goctlpri/pkg/env"
+	"github.com/yanxin666/goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

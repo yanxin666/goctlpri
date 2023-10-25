@@ -3,7 +3,7 @@ package gogen
 import (
 	"fmt"
 
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 const (

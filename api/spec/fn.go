@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/stringx"
-	"goctlpri/util"
+	"github.com/yanxin666/goctlpri/util"
 )
 
 const (

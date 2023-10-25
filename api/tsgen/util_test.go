@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/api/spec"
 )
 
 func TestGenTsType(t *testing.T) {

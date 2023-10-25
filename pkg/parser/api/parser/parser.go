@@ -7,9 +7,9 @@ import (
 	"reflect"
 	"strings"
 
-	"goctlpri/pkg/parser/api/ast"
-	"goctlpri/pkg/parser/api/scanner"
-	"goctlpri/pkg/parser/api/token"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/ast"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/scanner"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/token"
 )
 
 const idAPI = "api"

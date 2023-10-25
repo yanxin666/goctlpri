@@ -5,15 +5,15 @@ import (
 	"runtime"
 
 	"github.com/spf13/cobra"
-	"goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/rpc/execx"
 )
 
 // upgrade gets the latest goctl by
-// go install goctlpri@latest
+// go install github.com/yanxin666/goctlpri@latest
 func upgrade(_ *cobra.Command, _ []string) error {
-	cmd := `GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go install goctlpri@latest`
+	cmd := `GO111MODULE=on GOPROXY=https://goproxy.cn/,direct go install github.com/yanxin666/goctlpri@latest`
 	if runtime.GOOS == "windows" {
-		cmd = `set GOPROXY=https://goproxy.cn,direct && go install goctlpri@latest`
+		cmd = `set GOPROXY=https://goproxy.cn,direct && go install github.com/yanxin666/goctlpri@latest`
 	}
 	info, err := execx.Run(cmd, "")
 	if err != nil {

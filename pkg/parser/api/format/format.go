@@ -5,7 +5,7 @@ import (
 	"io"
 	"os"
 
-	"goctlpri/pkg/parser/api/parser"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/parser"
 )
 
 // File formats the api file.

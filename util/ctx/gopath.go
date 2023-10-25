@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 // projectFromGoPath is used to find the main module and project file path

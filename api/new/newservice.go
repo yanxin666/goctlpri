@@ -9,10 +9,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"goctlpri/api/gogen"
-	conf "goctlpri/config"
-	"goctlpri/util"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/api/gogen"
+	conf "github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 //go:embed api.tpl

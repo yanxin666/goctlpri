@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"goctlpri/api/parser/g4/gen/api"
+	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
 )
 
 // ImportExpr defines import syntax for api

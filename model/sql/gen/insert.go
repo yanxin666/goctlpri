@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/zeromicro/go-zero/core/collection"
-	"goctlpri/model/sql/template"
-	"goctlpri/util"
-	"goctlpri/util/pathx"
-	"goctlpri/util/stringx"
+	"github.com/yanxin666/goctlpri/model/sql/template"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/stringx"
 )
 
 func genInsert(table Table, withCache, postgreSql bool) (string, string, error) {

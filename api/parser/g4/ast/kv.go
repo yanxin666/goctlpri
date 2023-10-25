@@ -3,7 +3,7 @@ package ast
 import (
 	"strings"
 
-	"goctlpri/api/parser/g4/gen/api"
+	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
 )
 
 // KvExpr describes key-value for api

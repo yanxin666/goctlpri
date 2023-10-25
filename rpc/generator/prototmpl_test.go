@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 func TestProtoTmpl(t *testing.T) {

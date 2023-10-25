@@ -5,7 +5,7 @@ import (
 	"sort"
 
 	"github.com/zeromicro/go-zero/core/stores/sqlx"
-	"goctlpri/model/sql/util"
+	"github.com/yanxin666/goctlpri/model/sql/util"
 )
 
 const indexPri = "PRIMARY"
