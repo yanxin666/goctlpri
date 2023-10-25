@@ -230,7 +230,6 @@ func (g *defaultGenerator) genFromDDL(filename string, withCache, strict bool, d
 		if err != nil {
 			return nil, err
 		}
-		fmt.Printf("%v\n", customCode)
 
 		m[e.Name.Source()] = &codeTuple{
 			modelCode:       code,
