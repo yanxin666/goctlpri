@@ -7,7 +7,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 func Test_ImportCycle(t *testing.T) {

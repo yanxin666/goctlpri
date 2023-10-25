@@ -7,10 +7,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"goctlpri/rpc/generator"
-	"goctlpri/util"
-	"goctlpri/util/console"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/rpc/generator"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/console"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

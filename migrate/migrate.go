@@ -15,8 +15,8 @@ import (
 
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
-	"goctlpri/util/console"
-	"goctlpri/util/ctx"
+	"github.com/yanxin666/goctlpri/util/console"
+	"github.com/yanxin666/goctlpri/util/ctx"
 )
 
 const defaultMigrateVersion = "v1.3.0"

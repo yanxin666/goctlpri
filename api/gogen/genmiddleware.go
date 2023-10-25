@@ -4,9 +4,9 @@ import (
 	_ "embed"
 	"strings"
 
-	"goctlpri/api/spec"
-	"goctlpri/config"
-	"goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util/format"
 )
 
 //go:embed middleware.tpl

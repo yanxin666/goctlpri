@@ -4,11 +4,11 @@ import (
 	"flag"
 	"fmt"
 
-	"goctlpri/example/rpc/hi/internal/config"
-	eventServer "goctlpri/example/rpc/hi/internal/server/event"
-	greetServer "goctlpri/example/rpc/hi/internal/server/greet"
-	"goctlpri/example/rpc/hi/internal/svc"
-	"goctlpri/example/rpc/hi/pb/hi"
+	"github.com/yanxin666/goctlpri/example/rpc/hi/internal/config"
+	eventServer "github.com/yanxin666/goctlpri/example/rpc/hi/internal/server/event"
+	greetServer "github.com/yanxin666/goctlpri/example/rpc/hi/internal/server/greet"
+	"github.com/yanxin666/goctlpri/example/rpc/hi/internal/svc"
+	"github.com/yanxin666/goctlpri/example/rpc/hi/pb/hi"
 
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/service"

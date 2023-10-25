@@ -1,6 +1,6 @@
 package ast
 
-import "goctlpri/pkg/parser/api/token"
+import "github.com/yanxin666/goctlpri/pkg/parser/api/token"
 
 // SyntaxStmt represents a syntax statement.
 type SyntaxStmt struct {

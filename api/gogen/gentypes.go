@@ -8,11 +8,11 @@ import (
 	"path"
 	"strings"
 
-	"goctlpri/api/spec"
-	apiutil "goctlpri/api/util"
-	"goctlpri/config"
-	"goctlpri/util"
-	"goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/api/spec"
+	apiutil "github.com/yanxin666/goctlpri/api/util"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/format"
 )
 
 const typesFile = "types"

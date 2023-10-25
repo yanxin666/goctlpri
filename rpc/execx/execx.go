@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"strings"
 
-	"goctlpri/util/pathx"
-	"goctlpri/vars"
+	"github.com/yanxin666/goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/vars"
 )
 
 // RunFunc defines a function type of Run function

@@ -5,7 +5,7 @@ package name
 import (
 	"strings"
 
-	"goctlpri/util/stringx"
+	"github.com/yanxin666/goctlpri/util/stringx"
 )
 
 // NamingStyle the type of string

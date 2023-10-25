@@ -6,9 +6,9 @@ package server
 import (
 	"context"
 
-	eventlogic "goctlpri/example/rpc/hi/internal/logic/event"
-	"goctlpri/example/rpc/hi/internal/svc"
-	"goctlpri/example/rpc/hi/pb/hi"
+	eventlogic "github.com/yanxin666/goctlpri/example/rpc/hi/internal/logic/event"
+	"github.com/yanxin666/goctlpri/example/rpc/hi/internal/svc"
+	"github.com/yanxin666/goctlpri/example/rpc/hi/pb/hi"
 )
 
 type EventServer struct {

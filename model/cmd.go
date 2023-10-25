@@ -1,9 +1,9 @@
 package model
 
 import (
-	"goctlpri/internal/cobrax"
-	"goctlpri/model/mongo"
-	"goctlpri/model/sql/command"
+	"github.com/yanxin666/goctlpri/internal/cobrax"
+	"github.com/yanxin666/goctlpri/model/mongo"
+	"github.com/yanxin666/goctlpri/model/sql/command"
 )
 
 var (

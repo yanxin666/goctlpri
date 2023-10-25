@@ -3,8 +3,8 @@ package generate
 import (
 	"fmt"
 
-	"goctlpri/model/mongo/template"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/model/mongo/template"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 const (

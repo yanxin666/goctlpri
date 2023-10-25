@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 // GoBin returns a path of GOBIN.

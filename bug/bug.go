@@ -7,7 +7,7 @@ import (
 	"runtime"
 
 	"github.com/spf13/cobra"
-	"goctlpri/internal/version"
+	"github.com/yanxin666/goctlpri/internal/version"
 )
 
 const (

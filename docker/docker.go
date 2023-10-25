@@ -11,9 +11,9 @@ import (
 
 	"github.com/gookit/color"
 	"github.com/spf13/cobra"
-	"goctlpri/util"
-	"goctlpri/util/env"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/env"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 const (

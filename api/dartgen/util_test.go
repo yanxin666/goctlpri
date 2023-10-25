@@ -3,7 +3,7 @@ package dartgen
 import (
 	"testing"
 
-	"goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/api/spec"
 )
 
 func Test_getPropertyFromMember(t *testing.T) {

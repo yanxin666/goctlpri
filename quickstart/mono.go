@@ -6,10 +6,10 @@ import (
 	"path/filepath"
 
 	"github.com/zeromicro/go-zero/core/logx"
-	"goctlpri/api/gogen"
-	"goctlpri/pkg/golang"
-	"goctlpri/util"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/api/gogen"
+	"github.com/yanxin666/goctlpri/pkg/golang"
+	"github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"goctlpri/pkg/parser/api/assertx"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/assertx"
 )
 
 func Test_Parse(t *testing.T) {

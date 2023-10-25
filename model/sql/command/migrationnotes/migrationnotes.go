@@ -1,8 +1,8 @@
 package migrationnotes
 
 import (
-	"goctlpri/config"
-	"goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util/format"
 )
 
 // BeforeCommands run before comamnd run to show some migration notes

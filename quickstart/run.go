@@ -5,8 +5,8 @@ import (
 	"os/exec"
 	"runtime"
 
-	"goctlpri/util/env"
-	"goctlpri/vars"
+	"github.com/yanxin666/goctlpri/util/env"
+	"github.com/yanxin666/goctlpri/vars"
 )
 
 const goproxy = "GOPROXY=https://goproxy.cn,direct"

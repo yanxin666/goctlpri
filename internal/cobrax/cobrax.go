@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"
-	"goctlpri/internal/flags"
+	"github.com/yanxin666/goctlpri/internal/flags"
 )
 
 type Option func(*cobra.Command)

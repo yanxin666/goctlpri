@@ -7,12 +7,12 @@ import (
 	"strconv"
 	"strings"
 
-	"goctlpri/api/parser/g4/gen/api"
-	"goctlpri/api/spec"
-	"goctlpri/config"
-	"goctlpri/util/format"
-	"goctlpri/util/pathx"
-	"goctlpri/vars"
+	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/util/format"
+	"github.com/yanxin666/goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/vars"
 )
 
 //go:embed logic.tpl

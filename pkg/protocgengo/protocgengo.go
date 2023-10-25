@@ -4,10 +4,10 @@ import (
 	"strings"
 	"time"
 
-	"goctlpri/pkg/goctl"
-	"goctlpri/pkg/golang"
-	"goctlpri/rpc/execx"
-	"goctlpri/util/env"
+	"github.com/yanxin666/goctlpri/pkg/goctl"
+	"github.com/yanxin666/goctlpri/pkg/golang"
+	"github.com/yanxin666/goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/util/env"
 )
 
 const (

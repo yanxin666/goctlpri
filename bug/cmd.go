@@ -2,7 +2,7 @@ package bug
 
 import (
 	"github.com/spf13/cobra"
-	"goctlpri/internal/cobrax"
+	"github.com/yanxin666/goctlpri/internal/cobrax"
 )
 
 // Cmd describes a bug command.

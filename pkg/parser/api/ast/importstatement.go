@@ -1,6 +1,6 @@
 package ast
 
-import "goctlpri/pkg/parser/api/token"
+import "github.com/yanxin666/goctlpri/pkg/parser/api/token"
 
 // ImportStmt represents an import statement.
 type ImportStmt interface {

@@ -5,11 +5,11 @@ import (
 	"path/filepath"
 	"unicode"
 
-	"goctlpri/api/parser/g4/ast"
-	"goctlpri/api/parser/g4/gen/api"
-	"goctlpri/api/spec"
-	"goctlpri/pkg/env"
-	apiParser "goctlpri/pkg/parser/api/parser"
+	"github.com/yanxin666/goctlpri/api/parser/g4/ast"
+	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/pkg/env"
+	apiParser "github.com/yanxin666/goctlpri/pkg/parser/api/parser"
 )
 
 type parser struct {

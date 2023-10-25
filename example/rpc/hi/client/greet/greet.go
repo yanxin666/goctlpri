@@ -6,7 +6,7 @@ package client
 import (
 	"context"
 
-	"goctlpri/example/rpc/hi/pb/hi"
+	"github.com/yanxin666/goctlpri/example/rpc/hi/pb/hi"
 
 	"github.com/zeromicro/go-zero/zrpc"
 	"google.golang.org/grpc"

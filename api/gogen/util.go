@@ -8,10 +8,10 @@ import (
 	"text/template"
 
 	"github.com/zeromicro/go-zero/core/collection"
-	"goctlpri/api/spec"
-	"goctlpri/api/util"
-	"goctlpri/pkg/golang"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/api/spec"
+	"github.com/yanxin666/goctlpri/api/util"
+	"github.com/yanxin666/goctlpri/pkg/golang"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 type fileGenConfig struct {

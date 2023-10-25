@@ -6,10 +6,10 @@ import (
 	"strings"
 
 	"github.com/spf13/cobra"
-	"goctlpri/config"
-	"goctlpri/model/mongo/generate"
-	file "goctlpri/util"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/model/mongo/generate"
+	file "github.com/yanxin666/goctlpri/util"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

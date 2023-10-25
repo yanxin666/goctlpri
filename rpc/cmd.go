@@ -2,9 +2,9 @@ package rpc
 
 import (
 	"github.com/spf13/cobra"
-	"goctlpri/config"
-	"goctlpri/internal/cobrax"
-	"goctlpri/rpc/cli"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/internal/cobrax"
+	"github.com/yanxin666/goctlpri/rpc/cli"
 )
 
 var (

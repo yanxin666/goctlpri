@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"goctlpri/internal/version"
+	"github.com/yanxin666/goctlpri/internal/version"
 )
 
 type env map[string]string

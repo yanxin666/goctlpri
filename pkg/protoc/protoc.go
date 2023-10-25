@@ -8,12 +8,12 @@ import (
 	"runtime"
 	"strings"
 
-	"goctlpri/pkg/downloader"
-	"goctlpri/pkg/goctl"
-	"goctlpri/rpc/execx"
-	"goctlpri/util/env"
-	"goctlpri/util/zipx"
-	"goctlpri/vars"
+	"github.com/yanxin666/goctlpri/pkg/downloader"
+	"github.com/yanxin666/goctlpri/pkg/goctl"
+	"github.com/yanxin666/goctlpri/rpc/execx"
+	"github.com/yanxin666/goctlpri/util/env"
+	"github.com/yanxin666/goctlpri/util/zipx"
+	"github.com/yanxin666/goctlpri/vars"
 )
 
 var url = map[string]string{

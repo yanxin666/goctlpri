@@ -10,9 +10,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"goctlpri/config"
-	"goctlpri/model/sql/gen"
-	"goctlpri/util/pathx"
+	"github.com/yanxin666/goctlpri/config"
+	"github.com/yanxin666/goctlpri/model/sql/gen"
+	"github.com/yanxin666/goctlpri/util/pathx"
 )
 
 var (

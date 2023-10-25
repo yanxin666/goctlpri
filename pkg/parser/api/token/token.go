@@ -3,8 +3,8 @@ package token
 import (
 	"fmt"
 
-	"goctlpri/pkg/parser/api/placeholder"
-	"goctlpri/util"
+	"github.com/yanxin666/goctlpri/pkg/parser/api/placeholder"
+	"github.com/yanxin666/goctlpri/util"
 )
 
 const (
