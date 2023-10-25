@@ -1,4 +1,4 @@
-module goctlpri
+module github.com/yanxin666/goctlpri
 
 go 1.21.1
 
