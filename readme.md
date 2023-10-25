@@ -1,4 +1,4 @@
-# goctl
+# goctlpri
 
 English | [简体中文](readme-cn.md)
 
