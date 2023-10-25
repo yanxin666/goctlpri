@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/pkg/parser/api/token"
+	"goctlpri/pkg/parser/api/token"
 )
 
 const (

@@ -3,8 +3,8 @@ package gen
 import (
 	"fmt"
 
-	"github.com/yanxin666/goctlpri/model/sql/template"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/model/sql/template"
+	"goctlpri/util/pathx"
 )
 
 const (

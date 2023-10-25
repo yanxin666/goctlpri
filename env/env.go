@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/spf13/cobra"
-	"github.com/yanxin666/goctlpri/pkg/env"
+	"goctlpri/pkg/env"
 )
 
 func write(_ *cobra.Command, args []string) error {

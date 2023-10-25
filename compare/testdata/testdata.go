@@ -9,7 +9,7 @@ import (
 	"strings"
 
 	"github.com/gookit/color"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/util/pathx"
 )
 
 type (

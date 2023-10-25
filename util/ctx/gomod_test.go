@@ -12,8 +12,8 @@ import (
 
 	"github.com/stretchr/testify/assert"
 	"github.com/zeromicro/go-zero/core/stringx"
-	"github.com/yanxin666/goctlpri/rpc/execx"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/rpc/execx"
+	"goctlpri/util/pathx"
 )
 
 func TestProjectFromGoMod(t *testing.T) {

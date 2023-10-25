@@ -9,12 +9,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yanxin666/goctlpri/internal/version"
-	sortedmap "github.com/yanxin666/goctlpri/pkg/collection"
-	"github.com/yanxin666/goctlpri/pkg/protoc"
-	"github.com/yanxin666/goctlpri/pkg/protocgengo"
-	"github.com/yanxin666/goctlpri/pkg/protocgengogrpc"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/internal/version"
+	sortedmap "goctlpri/pkg/collection"
+	"goctlpri/pkg/protoc"
+	"goctlpri/pkg/protocgengo"
+	"goctlpri/pkg/protocgengogrpc"
+	"goctlpri/util/pathx"
 )
 
 var goctlEnv *sortedmap.SortedMap

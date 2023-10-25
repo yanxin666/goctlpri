@@ -3,10 +3,10 @@ package protocgengogrpc
 import (
 	"strings"
 
-	"github.com/yanxin666/goctlpri/pkg/goctl"
-	"github.com/yanxin666/goctlpri/pkg/golang"
-	"github.com/yanxin666/goctlpri/rpc/execx"
-	"github.com/yanxin666/goctlpri/util/env"
+	"goctlpri/pkg/goctl"
+	"goctlpri/pkg/golang"
+	"goctlpri/rpc/execx"
+	"goctlpri/util/env"
 )
 
 const (

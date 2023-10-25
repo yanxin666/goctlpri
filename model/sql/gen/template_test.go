@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yanxin666/goctlpri/model/sql/template"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/model/sql/template"
+	"goctlpri/util/pathx"
 )
 
 func TestGenTemplates(t *testing.T) {

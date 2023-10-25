@@ -4,10 +4,10 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/yanxin666/goctlpri/pkg/golang"
-	"github.com/yanxin666/goctlpri/util/console"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/vars"
+	"goctlpri/pkg/golang"
+	"goctlpri/util/console"
+	"goctlpri/util/pathx"
+	"goctlpri/vars"
 )
 
 func Install(cacheDir, name string, installFn func(dest string) (string, error)) (string, error) {

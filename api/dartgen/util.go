@@ -7,8 +7,8 @@ import (
 	"path"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/api/spec"
-	"github.com/yanxin666/goctlpri/api/util"
+	"goctlpri/api/spec"
+	"goctlpri/api/util"
 )
 
 const (

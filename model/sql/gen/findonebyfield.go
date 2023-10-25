@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/model/sql/template"
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/util/stringx"
+	"goctlpri/model/sql/template"
+	"goctlpri/util"
+	"goctlpri/util/pathx"
+	"goctlpri/util/stringx"
 )
 
 type findOneCode struct {

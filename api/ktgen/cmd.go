@@ -4,7 +4,7 @@ import (
 	"errors"
 
 	"github.com/spf13/cobra"
-	"github.com/yanxin666/goctlpri/api/parser"
+	"goctlpri/api/parser"
 )
 
 var (

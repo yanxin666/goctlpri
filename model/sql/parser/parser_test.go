@@ -8,9 +8,9 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/yanxin666/goctlpri/model/sql/model"
-	"github.com/yanxin666/goctlpri/model/sql/util"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/model/sql/model"
+	"goctlpri/model/sql/util"
+	"goctlpri/util/pathx"
 )
 
 func TestParsePlainText(t *testing.T) {

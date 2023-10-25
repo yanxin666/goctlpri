@@ -11,11 +11,11 @@ import (
 	"time"
 
 	"github.com/zeromicro/go-zero/core/collection"
-	"github.com/yanxin666/goctlpri/api/spec"
-	"github.com/yanxin666/goctlpri/config"
-	"github.com/yanxin666/goctlpri/util/format"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/vars"
+	"goctlpri/api/spec"
+	"goctlpri/config"
+	"goctlpri/util/format"
+	"goctlpri/util/pathx"
+	"goctlpri/vars"
 )
 
 const (

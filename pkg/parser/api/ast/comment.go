@@ -3,8 +3,8 @@ package ast
 import (
 	"strings"
 
-	"github.com/yanxin666/goctlpri/pkg/parser/api/token"
-	"github.com/yanxin666/goctlpri/util"
+	"goctlpri/pkg/parser/api/token"
+	"goctlpri/util"
 )
 
 // CommentGroup represents a list of comments.

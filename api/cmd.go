@@ -2,19 +2,19 @@ package api
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/yanxin666/goctlpri/api/apigen"
-	"github.com/yanxin666/goctlpri/api/dartgen"
-	"github.com/yanxin666/goctlpri/api/docgen"
-	"github.com/yanxin666/goctlpri/api/format"
-	"github.com/yanxin666/goctlpri/api/gogen"
-	"github.com/yanxin666/goctlpri/api/javagen"
-	"github.com/yanxin666/goctlpri/api/ktgen"
-	"github.com/yanxin666/goctlpri/api/new"
-	"github.com/yanxin666/goctlpri/api/tsgen"
-	"github.com/yanxin666/goctlpri/api/validate"
-	"github.com/yanxin666/goctlpri/config"
-	"github.com/yanxin666/goctlpri/internal/cobrax"
-	"github.com/yanxin666/goctlpri/plugin"
+	"goctlpri/api/apigen"
+	"goctlpri/api/dartgen"
+	"goctlpri/api/docgen"
+	"goctlpri/api/format"
+	"goctlpri/api/gogen"
+	"goctlpri/api/javagen"
+	"goctlpri/api/ktgen"
+	"goctlpri/api/new"
+	"goctlpri/api/tsgen"
+	"goctlpri/api/validate"
+	"goctlpri/config"
+	"goctlpri/internal/cobrax"
+	"goctlpri/plugin"
 )
 
 var (

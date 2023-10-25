@@ -1,15 +1,15 @@
 package generator
 
 import (
-	"github.com/yanxin666/goctlpri/util/format"
+	"goctlpri/util/format"
 	"path/filepath"
 	"strings"
 
-	conf "github.com/yanxin666/goctlpri/config"
-	"github.com/yanxin666/goctlpri/rpc/parser"
-	"github.com/yanxin666/goctlpri/util/ctx"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/util/stringx"
+	conf "goctlpri/config"
+	"goctlpri/rpc/parser"
+	"goctlpri/util/ctx"
+	"goctlpri/util/pathx"
+	"goctlpri/util/stringx"
 )
 
 const (

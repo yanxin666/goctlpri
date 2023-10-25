@@ -9,8 +9,8 @@ import (
 	"github.com/zeromicro/go-zero/core/conf"
 	"github.com/zeromicro/go-zero/core/hash"
 	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/yanxin666/goctlpri/update/config"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/update/config"
+	"goctlpri/util/pathx"
 )
 
 const (

@@ -5,9 +5,9 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/util/stringx"
+	"goctlpri/util"
+	"goctlpri/util/pathx"
+	"goctlpri/util/stringx"
 )
 
 //go:embed rpc.tpl

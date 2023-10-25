@@ -6,9 +6,9 @@ import (
 	"io"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/api/spec"
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/api/spec"
+	"goctlpri/util"
+	"goctlpri/util/pathx"
 )
 
 func writeProperty(writer io.Writer, member spec.Member, indent int) error {

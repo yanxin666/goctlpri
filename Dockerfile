@@ -15,7 +15,7 @@ ADD go.mod .
 ADD go.sum .
 RUN go mod download
 COPY . .
-RUN go build -ldflags="-s -w" -o /app/github.com/yanxin666/goctlpri ./github.com/yanxin666/goctlpri.go
+RUN go build -ldflags="-s -w" -o /app/goctlpri ./goctlpri.go
 
 
 FROM golang:alpine

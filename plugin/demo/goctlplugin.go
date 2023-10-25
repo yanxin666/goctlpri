@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/yanxin666/goctlpri/plugin"
+	"goctlpri/plugin"
 )
 
 func main() {

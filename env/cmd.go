@@ -1,6 +1,6 @@
 package env
 
-import "github.com/yanxin666/goctlpri/internal/cobrax"
+import "goctlpri/internal/cobrax"
 
 var (
 	sliceVarWriteValue []string

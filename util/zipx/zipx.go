@@ -6,7 +6,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/util/pathx"
 )
 
 func Unpacking(name, destPath string, mapper func(f *zip.File) bool) error {

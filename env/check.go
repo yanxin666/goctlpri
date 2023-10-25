@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/spf13/cobra"
-	"github.com/yanxin666/goctlpri/pkg/env"
-	"github.com/yanxin666/goctlpri/pkg/protoc"
-	"github.com/yanxin666/goctlpri/pkg/protocgengo"
-	"github.com/yanxin666/goctlpri/pkg/protocgengogrpc"
-	"github.com/yanxin666/goctlpri/util/console"
+	"goctlpri/pkg/env"
+	"goctlpri/pkg/protoc"
+	"goctlpri/pkg/protocgengo"
+	"goctlpri/pkg/protocgengogrpc"
+	"goctlpri/util/console"
 )
 
 type bin struct {

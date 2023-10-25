@@ -7,7 +7,7 @@ import (
 	"os"
 	"reflect"
 
-	apitoken "github.com/yanxin666/goctlpri/pkg/parser/api/token"
+	apitoken "goctlpri/pkg/parser/api/token"
 )
 
 // A FieldFilter may be provided to Fprint to control the output.

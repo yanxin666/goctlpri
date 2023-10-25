@@ -9,8 +9,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/vars"
+	"goctlpri/util/pathx"
+	"goctlpri/vars"
 )
 
 func TestLookUpGo(t *testing.T) {

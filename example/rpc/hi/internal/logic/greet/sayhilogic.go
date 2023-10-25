@@ -3,8 +3,8 @@ package greetlogic
 import (
 	"context"
 
-	"github.com/yanxin666/goctlpri/example/rpc/hi/internal/svc"
-	"github.com/yanxin666/goctlpri/example/rpc/hi/pb/hi"
+	"goctlpri/example/rpc/hi/internal/svc"
+	"goctlpri/example/rpc/hi/pb/hi"
 
 	"github.com/zeromicro/go-zero/core/logx"
 )

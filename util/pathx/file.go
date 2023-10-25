@@ -13,7 +13,7 @@ import (
 	"strings"
 
 	"github.com/gookit/color"
-	"github.com/yanxin666/goctlpri/internal/version"
+	"goctlpri/internal/version"
 )
 
 // NL defines a new line.

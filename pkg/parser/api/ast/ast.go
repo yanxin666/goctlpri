@@ -5,8 +5,8 @@ import (
 	"io"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/pkg/parser/api/token"
-	"github.com/yanxin666/goctlpri/util"
+	"goctlpri/pkg/parser/api/token"
+	"goctlpri/util"
 )
 
 // Node represents a node in the AST.

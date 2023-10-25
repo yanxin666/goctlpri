@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
+	"goctlpri/api/parser/g4/gen/api"
 )
 
 // InfoExpr defines info syntax for api

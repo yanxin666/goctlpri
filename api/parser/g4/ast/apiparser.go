@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/zeromicro/antlr"
-	"github.com/yanxin666/goctlpri/api/parser/g4/gen/api"
-	"github.com/yanxin666/goctlpri/util/console"
+	"goctlpri/api/parser/g4/gen/api"
+	"goctlpri/util/console"
 )
 
 type (

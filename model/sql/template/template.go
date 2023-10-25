@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 
-	"github.com/yanxin666/goctlpri/util"
+	"goctlpri/util"
 )
 
 // Vars defines a template for var block in model

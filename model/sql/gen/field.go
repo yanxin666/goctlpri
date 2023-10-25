@@ -3,10 +3,10 @@ package gen
 import (
 	"strings"
 
-	"github.com/yanxin666/goctlpri/model/sql/parser"
-	"github.com/yanxin666/goctlpri/model/sql/template"
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/model/sql/parser"
+	"goctlpri/model/sql/template"
+	"goctlpri/util"
+	"goctlpri/util/pathx"
 )
 
 func genFields(table Table, fields []*parser.Field) (string, error) {

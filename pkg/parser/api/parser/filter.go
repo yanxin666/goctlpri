@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/yanxin666/goctlpri/pkg/parser/api/ast"
-	"github.com/yanxin666/goctlpri/pkg/parser/api/placeholder"
+	"goctlpri/pkg/parser/api/ast"
+	"goctlpri/pkg/parser/api/placeholder"
 )
 
 type filterBuilder struct {

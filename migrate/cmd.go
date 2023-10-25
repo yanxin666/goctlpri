@@ -1,6 +1,6 @@
 package migrate
 
-import "github.com/yanxin666/goctlpri/internal/cobrax"
+import "goctlpri/internal/cobrax"
 
 var (
 	boolVarVerbose   bool

@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yanxin666/goctlpri/util"
+	"goctlpri/util"
 )
 
 //go:embed default_en.json

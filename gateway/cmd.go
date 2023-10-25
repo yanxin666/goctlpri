@@ -6,9 +6,9 @@ import (
 	"path/filepath"
 
 	"github.com/spf13/cobra"
-	"github.com/yanxin666/goctlpri/internal/cobrax"
-	"github.com/yanxin666/goctlpri/util/ctx"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/internal/cobrax"
+	"goctlpri/util/ctx"
+	"goctlpri/util/pathx"
 )
 
 var (

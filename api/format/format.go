@@ -13,11 +13,11 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/errorx"
-	"github.com/yanxin666/goctlpri/api/parser"
-	"github.com/yanxin666/goctlpri/api/util"
-	"github.com/yanxin666/goctlpri/pkg/env"
-	apiF "github.com/yanxin666/goctlpri/pkg/parser/api/format"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/api/parser"
+	"goctlpri/api/util"
+	"goctlpri/pkg/env"
+	apiF "goctlpri/pkg/parser/api/format"
+	"goctlpri/util/pathx"
 )
 
 const (

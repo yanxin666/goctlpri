@@ -7,9 +7,9 @@ import (
 
 	"github.com/spf13/cobra"
 	"github.com/zeromicro/go-zero/core/logx"
-	"github.com/yanxin666/goctlpri/util/console"
-	"github.com/yanxin666/goctlpri/util/ctx"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	"goctlpri/util/console"
+	"goctlpri/util/ctx"
+	"goctlpri/util/pathx"
 )
 
 const baseDir = "greet"

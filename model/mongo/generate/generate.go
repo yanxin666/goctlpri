@@ -4,12 +4,12 @@ import (
 	"errors"
 	"path/filepath"
 
-	"github.com/yanxin666/goctlpri/config"
-	"github.com/yanxin666/goctlpri/model/mongo/template"
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/format"
-	"github.com/yanxin666/goctlpri/util/pathx"
-	"github.com/yanxin666/goctlpri/util/stringx"
+	"goctlpri/config"
+	"goctlpri/model/mongo/template"
+	"goctlpri/util"
+	"goctlpri/util/format"
+	"goctlpri/util/pathx"
+	"goctlpri/util/stringx"
 )
 
 // Context defines the model generation data what they needs

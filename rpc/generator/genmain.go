@@ -6,11 +6,11 @@ import (
 	"path/filepath"
 	"strings"
 
-	conf "github.com/yanxin666/goctlpri/config"
-	"github.com/yanxin666/goctlpri/rpc/parser"
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/format"
-	"github.com/yanxin666/goctlpri/util/pathx"
+	conf "goctlpri/config"
+	"goctlpri/rpc/parser"
+	"goctlpri/util"
+	"goctlpri/util/format"
+	"goctlpri/util/pathx"
 )
 
 //go:embed main.tpl

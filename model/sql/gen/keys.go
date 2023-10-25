@@ -5,9 +5,9 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/yanxin666/goctlpri/model/sql/parser"
-	"github.com/yanxin666/goctlpri/util"
-	"github.com/yanxin666/goctlpri/util/stringx"
+	"goctlpri/model/sql/parser"
+	"goctlpri/util"
+	"goctlpri/util/stringx"
 )
 
 // Key describes cache key
