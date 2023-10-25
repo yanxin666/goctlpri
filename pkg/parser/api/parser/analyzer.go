@@ -5,10 +5,10 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/parser/api/ast"
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/parser/api/placeholder"
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/parser/api/token"
+	"goctlpri/api/spec"
+	"goctlpri/pkg/parser/api/ast"
+	"goctlpri/pkg/parser/api/placeholder"
+	"goctlpri/pkg/parser/api/token"
 )
 
 // Analyzer analyzes the ast and converts it to spec.

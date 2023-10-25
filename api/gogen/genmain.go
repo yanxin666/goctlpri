@@ -5,11 +5,11 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
-	"github.com/zeromicro/go-zero/tools/goctl/config"
-	"github.com/zeromicro/go-zero/tools/goctl/util/format"
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
-	"github.com/zeromicro/go-zero/tools/goctl/vars"
+	"goctlpri/api/spec"
+	"goctlpri/config"
+	"goctlpri/util/format"
+	"goctlpri/util/pathx"
+	"goctlpri/vars"
 )
 
 //go:embed main.tpl

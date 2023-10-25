@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/zeromicro/go-zero/tools/goctl/config"
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
+	"goctlpri/config"
+	"goctlpri/util/pathx"
 )
 
 var testTypes = `

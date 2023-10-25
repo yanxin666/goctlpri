@@ -8,8 +8,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
-	"github.com/zeromicro/go-zero/tools/goctl/vars"
+	"goctlpri/util/pathx"
+	"goctlpri/vars"
 )
 
 // RunFunc defines a function type of Run function

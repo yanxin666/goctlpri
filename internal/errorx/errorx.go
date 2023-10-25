@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/zeromicro/go-zero/tools/goctl/pkg/env"
+	"goctlpri/pkg/env"
 )
 
 var errorFormat = `goctl error: %+v

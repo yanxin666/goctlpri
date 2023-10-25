@@ -7,10 +7,10 @@ import (
 	"strings"
 	"text/template"
 
-	"github.com/zeromicro/go-zero/tools/goctl/api/spec"
-	apiutil "github.com/zeromicro/go-zero/tools/goctl/api/util"
-	"github.com/zeromicro/go-zero/tools/goctl/util"
-	"github.com/zeromicro/go-zero/tools/goctl/util/pathx"
+	"goctlpri/api/spec"
+	apiutil "goctlpri/api/util"
+	"goctlpri/util"
+	"goctlpri/util/pathx"
 )
 
 //go:embed handler.tpl
